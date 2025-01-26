@@ -55,6 +55,6 @@ Ensure you have the following installed on your system:
 1. Open the app.R file in RStudio.
 2. Click the "Run App" button in the RStudio interface 
 
-## **Credits**
--Data Source: The dataset used in this application was obtained from Kaggle.
--Developed By: Ramvignesh R, Karunaamruthan S S, Sutharsan C P
+### **Credits**
+- Data Source: The dataset used in this application was obtained from Kaggle.
+- Developed By: Ramvignesh R, Karunaamruthan S S, Sutharsan C P
